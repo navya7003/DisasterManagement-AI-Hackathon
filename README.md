@@ -60,4 +60,4 @@ The dashboard aims to provide timely, data-driven insights to help communities a
 - JavaScript (for dashboard interactivity)
 
 ---
-*Developed for [Your Hackathon Name] by [Your Name/Team Name]*
+*Developed for QUANTANOVA V1 by [Code Crafters]*
